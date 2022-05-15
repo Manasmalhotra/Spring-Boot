@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+.captcha .preview{
+    height:40px;
+    width:200px;
+	border:1px dashed #888;
+}
+
+.captcha .preview span{
+	display:inline-block;
+	user-select:none;
+}
+
+.captcha .captcha-form{
+	display:flex;
+}
