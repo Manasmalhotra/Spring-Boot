@@ -1,3 +1,1 @@
-# HibernatewithoutSpring
-
-Application with hibernate without springboot
+# Hibernate/JDBC Web-Proje
