@@ -1,3 +1,3 @@
-# Spring-Boot
+# HibernatewithoutSpring
 
-Master branch - Web App for springboot
+Application with hibernate without springboot
