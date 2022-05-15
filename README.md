@@ -1,3 +1,3 @@
-# HibernatewithoutSpring
+# JDBC-  Project
 
-Application with hibernate without springboot
+Application with jdbc
