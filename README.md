@@ -1,1 +1,1 @@
-# Hibernate/JDBC Web-Proje
+# Hibernate/JDBC Web-Project
